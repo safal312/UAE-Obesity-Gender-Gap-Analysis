@@ -1,7 +1,7 @@
 # UAE Obesity Gender Gap Analysis
 UAE culture has been criticized for impacting obesity rates in women more significantly than in men due to [traditional restrictions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4039587/). Anecdotally, NYUAD’s men’s volleyball and basketball teams have participated in competitions with other universities in Abu Dhabi during the Fall 2021 term while women’s teams have not; the reason being that other collegiate women’s teams in Abu Dhabi were not allowed to compete in other campuses. However, when noting that women are indeed [more immobile and less physically active](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-789X.2009.00655.x), a biased observer might then take this information and stretch to assume that culture in the UAE is the sole cause of the gender disparity in obesity, or even the obesity itself. In fact, the UAE is progressing and culture is not the only factor affecting obesity. Oversimplifying the roots of obesity and pinning them to sexist culture solidifies the prejudiced view of the Orient, even though there are multiple factors affecting the rates, which is unfair to the UAE culture. In this project, we will focus on how the availability and proximity of gendered facilities is a factor that has an impact on the obesity rates in UAE residents.
 
-You can find the full report [here](/uae report.pdf).
+You can find the full report [here](uae report.pdf).
 
 Note:
 All the data used in this project is publicly available. The data collected from the survey has been anonymized by removing user email addresses.
